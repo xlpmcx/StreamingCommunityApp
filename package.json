@@ -1,0 +1,17 @@
+{
+  "name": "streamingcommunity-app",
+  "version": "1.0.0",
+  "description": "App per visualizzare il sito streamingcommunity.family senza pop-up e annunci, con supporto per video e audio.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-packager . StreamingCommunity --platform=darwin --icon=icon.icns --overwrite"
+  },
+  "dependencies": {
+    "electron": "^25.0.0"
+  },
+  "devDependencies": {
+    "electron-packager": "^15.3.0"
+  },
+  "license": "MIT"
+}
