@@ -1,6 +1,6 @@
 # StreamingCommunity App
 
-![Uploading icon-1-_trascinato_.png…]()
+![icon-1-_trascinato_](https://github.com/user-attachments/assets/6ab8b6fc-9cd8-4391-94b7-6a268a57a2eb)
 
 Un'app desktop per navigare su **streamingcommunity.family** senza pubblicità, pop-up o altre interruzioni.
 
