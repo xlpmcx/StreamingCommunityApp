@@ -9,4 +9,4 @@ Puoi copiare semplicemente l'app all'interno del file zip nella tua cartella 'Ap
 Se ti trovi su Windows o Linux puoi compilare l'app con Electron builder.
 
 ### Errori
-Se apri l'app e ricevi un errore oppure ti accorgi che il sito non è più disponibile controlla questa pagina (puoi anche creare una richiesta), sarà aggiornata in base al cambio del dominio del sito.
+Se apri l'app e ricevi un errore, oppure ti accorgi che il sito non è più disponibile, controlla questa pagina (puoi anche creare una richiesta), sarà aggiornata in base al cambio del dominio del sito.
