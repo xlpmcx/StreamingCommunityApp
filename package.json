@@ -1,7 +1,7 @@
 {
   "name": "streamingcommunity-app",
   "version": "1.0.0",
-  "description": "App per visualizzare il sito streamingcommunity.family senza pop-up e annunci, con supporto per video e audio.",
+  "description": "App per visualizzare il sito streamingcommunity senza pop-up e annunci, con supporto per video e audio.",
   "main": "main.js",
   "scripts": {
     "start": "electron .",
