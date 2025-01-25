@@ -22,7 +22,7 @@ function createWindow() {
     frame: true,
   });
 
-  mainWindow.loadURL('https://streamingcommunity.prof');
+  mainWindow.loadURL('https://streamingcommunity.paris');
 
   mainWindow.on('closed', () => {
     mainWindow = null;
