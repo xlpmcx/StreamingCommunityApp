@@ -5,7 +5,7 @@
   "main": "main.js",
   "scripts": {
     "start": "electron .",
-    "build": "electron-packager . StreamingCommunity --platform=darwin --icon=icon.icns --overwrite"
+    "build": "electron-packager . StreamingCommunity --platform=darwin --arch=universal --icon=icon.icns --overwrite"
   },
   "dependencies": {
     "electron": "^25.0.0"
